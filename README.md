@@ -48,7 +48,7 @@ This repository is organized to help you navigate and access blogs effortlessly:
 I am always eager to connect, collaborate, and learn from others in the field. Feel free to reach out to me:  
 
 - **Email**: [tanejanitij4002@gmail.com](mailto:tanejanitij4002@gmail.com)  
-- **GitHub**: [Nitij's GitHub Profile]((https://github.com/nitij-taneja))  
+- **GitHub**: [Nitij's GitHub Profile](https://github.com/nitij-taneja) 
 
 ---
 
